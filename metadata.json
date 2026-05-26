@@ -1,0 +1,6 @@
+{
+  "name": "Chess Arrows",
+  "description": "An elegant Chess.com browser client designed for touch screens, allowing you to draw helpful board arrows with swift swipes, while moving pieces by tapping or holding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
